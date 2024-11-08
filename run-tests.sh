@@ -87,3 +87,4 @@ echo
 echo "Tests run: $total ($success success, $failure failed)"
 printf $nocolor
 echo
+bd
